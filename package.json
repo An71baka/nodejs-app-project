@@ -1,0 +1,13 @@
+{
+  "name": "nodeapp-project",
+  "version": "1.0.0",
+  "description": "a work project i got to test me",
+  "main": "nodeapp.js",
+  "scripts": {
+    "start": "node nodeapp.js"
+  },
+  "dependencies": {
+    "express": "^4.17.2",
+    "mongoose": "^5.13.2"
+  }
+}
